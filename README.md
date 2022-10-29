@@ -53,4 +53,21 @@ Clone no Git
 
  ![](prints%20aula/renomear%20arquivo.png)
 
+ \\ para fazer *login e fazer os commits
+
+ git config --global usar.name "vinicius"
+
+ git config --global usar.email "vinicruzlago@gmail.com"
  
+ ![](prints%20aula/git%20config%20--global%20.png)
+
+ \\ comitar os arquivos 
+
+ ![git commit -m "nome do commit"](prints%20aula/git%20commit%20-m%20aspas%20duplas%20e%20nome%20do%20cmmit.png)
+
+ \\ mostrar os eventos
+
+    git show 
+
+![](prints%20aula/git%20show.png)
+
