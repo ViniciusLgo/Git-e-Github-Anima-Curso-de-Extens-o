@@ -74,3 +74,9 @@ Clone no Git
 \\ push (ação de pegar do repositorio local e colocar ele remoto)
 
 ![Push ](prints%20aula/push%20.png)
+
+\\ git log (mudanças e alterações ao longo do tempo)
+
+![git log](prints%20aula/git%20log.png)
+
+\\ git checkout (voltar a versão selecionada)
