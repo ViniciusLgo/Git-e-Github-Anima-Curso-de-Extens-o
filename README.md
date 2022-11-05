@@ -71,3 +71,6 @@ Clone no Git
 
 ![](prints%20aula/git%20show.png)
 
+\\ push (ação de pegar do repositorio local e colocar ele remoto)
+
+![Push ](prints%20aula/push%20.png)
